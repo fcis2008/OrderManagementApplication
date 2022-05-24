@@ -1,0 +1,66 @@
+﻿@page
+@model OrderManagement.API.Pages.Suppliers.EditModel
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Supplier</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Supplier.ID" />
+            <div class="form-group">
+                <label asp-for="Supplier.Name" class="control-label"></label>
+                <input asp-for="Supplier.Name" class="form-control" />
+                <span asp-validation-for="Supplier.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Supplier.AddressLine1" class="control-label"></label>
+                <input asp-for="Supplier.AddressLine1" class="form-control" />
+                <span asp-validation-for="Supplier.AddressLine1" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Supplier.AddressLine2" class="control-label"></label>
+                <input asp-for="Supplier.AddressLine2" class="form-control" />
+                <span asp-validation-for="Supplier.AddressLine2" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Supplier.City" class="control-label"></label>
+                <input asp-for="Supplier.City" class="form-control" />
+                <span asp-validation-for="Supplier.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Supplier.PostalCode" class="control-label"></label>
+                <input asp-for="Supplier.PostalCode" class="form-control" />
+                <span asp-validation-for="Supplier.PostalCode" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Supplier.StateName" class="control-label"></label>
+                <select asp-for="Supplier.FKStateID" class="form-control" asp-items="ViewBag.FKStateID"></select>
+                <span asp-validation-for="Supplier.FKStateID" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Supplier.IsActive" /> @Html.DisplayNameFor(model => model.Supplier.IsActive)
+                </label>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

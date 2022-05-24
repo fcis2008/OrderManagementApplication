@@ -1,0 +1,15 @@
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Services.deps.json
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Services.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Services.pdb
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Core.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\bin\Debug\net6.0\OrderManagement.Core.pdb
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.csproj.AssemblyReference.cache
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.AssemblyInfoInputs.cache
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.AssemblyInfo.cs
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.csproj.CoreCompileInputs.cache
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.csproj.CopyComplete
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\refint\OrderManagement.Services.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\OrderManagement.Services.pdb
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Services\obj\Debug\net6.0\ref\OrderManagement.Services.dll

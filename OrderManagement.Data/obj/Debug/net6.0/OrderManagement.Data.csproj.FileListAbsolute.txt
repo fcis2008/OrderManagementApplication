@@ -1,0 +1,16 @@
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\bin\Debug\net6.0\OrderManagement.Data.deps.json
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\bin\Debug\net6.0\OrderManagement.Data.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\bin\Debug\net6.0\OrderManagement.Data.pdb
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.csproj.AssemblyReference.cache
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.AssemblyInfoInputs.cache
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.AssemblyInfo.cs
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.csproj.CoreCompileInputs.cache
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.csproj.CopyComplete
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\refint\OrderManagement.Data.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\OrderManagement.Data.pdb
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\obj\Debug\net6.0\ref\OrderManagement.Data.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\bin\Debug\net6.0\OrderManagement.Core.dll
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\bin\Debug\net6.0\OrderManagement.Core.pdb
+C:\Users\12034\source\repos\OrderManagementApplication\OrderManagement.Data\bin\Debug\net6.0\appsettings.json
